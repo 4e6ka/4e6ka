@@ -4,9 +4,9 @@ I publish various useful pieces of code that are very helpful in SEO for CMF Mod
 
 ## Services 📫
 
--Technical optimization, page speed optimisation
--SEO audit, search for weaknesses
--Development and implementation of a link strategy, outreach, PBN, SEM etc.
+- Technical optimization, page speed optimisation
+- SEO audit, search for weaknesses
+- Development and implementation of a link strategy, outreach, PBN, SEM etc.
                   
                   
                   
