@@ -1,9 +1,15 @@
-### Привет 👋
+### Hi 👋
 
-Меня зовут Денис, и я специалист по SEO. Здесь я публикую скрипты для SEO-специалистов и владельцев бизнеса, помогающие продвигать сайты.
+I publish various useful pieces of code that are very helpful in SEO for CMF Modx revo.
 
-## Услуги 📫
+## Services 📫
 
+-Technical optimization, page speed optimisation
+-SEO audit, search for weaknesses
+-Development and implementation of a link strategy, outreach, PBN, SEM etc.
+                  
+                  
+                  
 
 <!--
 **4e6ka/4e6ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
