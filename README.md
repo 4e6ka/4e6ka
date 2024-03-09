@@ -1,11 +1,10 @@
-### Hi 👋
+# Hi 👋
 
 I've been working on digital marketing since 2012. I understand the value of ranked websites for businesses I always prefer to work in the right direction and put all my efforts, which helps to rank a website in Google and Yandex.
 
 I publish here various useful pieces of code that are very helpful in SEO for CMF Modx revo. 
 
 ## Services 📫
-
 
 - Keyword Research and Strategy:
   - Identifying target keywords based on business goals and search volume.
@@ -54,6 +53,9 @@ I publish here various useful pieces of code that are very helpful in SEO for CM
 Staying updated with the latest SEO trends and Google algorithm updates.
 Exploring and implementing new technologies such as AI for content generation or optimization.
 
+## Contacts 📫
+
+[My telegram](https://t.me/che6kan)
 
 <!--
 **4e6ka/4e6ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
