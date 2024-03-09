@@ -8,9 +8,9 @@ I publish here various useful pieces of code that are very helpful in SEO for CM
 
 
 - Keyword Research and Strategy:
--- Identifying target keywords based on business goals and search volume.
--- Analyzing keyword trends and user intent.
--- Providing strategies for keyword optimization.
+` Identifying target keywords based on business goals and search volume.
+` Analyzing keyword trends and user intent.
+` Providing strategies for keyword optimization.
   
 - Technical SEO:
 -- Conducting website audits to identify technical issues affecting search visibility.
