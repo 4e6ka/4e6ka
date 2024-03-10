@@ -4,7 +4,7 @@ I've been working on digital marketing since 2012. I understand the value of ran
 
 I publish here various useful pieces of code that are very helpful in SEO for CMF Modx revo. 
 
-## Services 📫
+## Services 😇
 
 - Keyword Research and Strategy
   - Identifying target keywords based on business goals and search volume.
